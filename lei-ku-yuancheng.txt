@@ -1,0 +1,26 @@
+﻿{
+ "kai-guan":"kai",
+ "qq-hao":"guan",
+ "qq-qun":"kai",
+ "qq-gong-zhong-hao":"guan",
+ "da-kai-wang-zhi":"guan",
+
+
+
+ "bai-ming-dan":"com.yygen11gxin",
+ "zhua-bao":
+  [
+    {"bm":"app.greyshirts.sslcapture"},
+    {"bm":"com.toshiba_dealin.developerhelper"},
+    {"bm":"huage.jingjian.adawayco"},
+    {"bm":"com.evbadroid.wicap"},
+    {"bm":"blake.hamilton.bitshark"},
+    {"bm":"com.sprintwind.packetcapturetool"},
+    {"bm":"wl.zxqdmz.capture"},
+    {"bm":"wsu.sniff.cepter"},
+    {"bm":"com.tencent.wstt.gt"},
+    {"bm":"com.dytcp.byys"},
+    {"bm":"FormatFa.ApktoolHelper"}
+  ]
+
+}
